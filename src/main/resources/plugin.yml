@@ -1,0 +1,9 @@
+name: BukkitHttpApi
+version: ${project.version}
+main: cn.cutemc.bukkithttpapi.BukkitHttpApi
+api-version: 1.16
+prefix: HttpApi
+load: STARTUP
+authors: [lushangkan]
+description: Provide Bukkit with the ability of Http to handle events and call API
+website: https://cutemc.cn
